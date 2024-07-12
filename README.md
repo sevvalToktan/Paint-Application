@@ -14,3 +14,11 @@ To clone this project to your local machine:
 
 ```bash
 git clone https://github.com/sevvalToktan/Paint-Application.git
+
+Requirements
+Unity (version 2020.3 or later)
+Git
+
+Usage
+Open the project with Unity.
+Click the "Play" button in the Unity Editor to run the project.
